@@ -1,5 +1,4 @@
-# Machine-learning-diabetes-detection
-机器学习-糖尿病检测
+# 机器学习-糖尿病检测
 检测是否为糖尿病。
 
 
